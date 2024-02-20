@@ -17,7 +17,7 @@ describe('localizadores', () => {
 
         //Attribute
         cy.get('[widget]')
-        //cambio de prueba
+        
 
 
 
