@@ -17,9 +17,6 @@ describe('localizadores', () => {
 
         //Attribute
         cy.get('[widget]')
-        
-
-
 
     })
 })

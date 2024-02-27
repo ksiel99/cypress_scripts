@@ -7,7 +7,6 @@ describe('encontrando_webelements', () =>{
         cy.contains('.L3eUgb', 'Google').contains('Preferencias')
         cy.contains('.ayzqOc', 'Preferencias')
         cy.contains('Buscar con Google').get('.gNO89b')
-
     })
     
 
